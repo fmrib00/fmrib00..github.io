@@ -2,7 +2,7 @@
     "permitted hosts": [
         {"name":"yongyue1",     "mac":"10e7c6229ccb"},
         {"name":"yongyue2",     "mac":"38378bef5cc5"},
-        {"name":"tencent_cloud","mac":"ea4e0651cc26"},
+        {"name":"tencent_cloud","mac":"db19db2affa7"},
         {"name":"hongqiao1",    "mac":"e03f49486277"},
         {"name":"hongqiao2",    "mac":"2c3b70d25044"}
     ]
