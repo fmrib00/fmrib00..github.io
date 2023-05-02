@@ -1,11 +1,11 @@
 {
     "permitted hosts": [
-        {"name":"yongyue1",     "mac":"10e7c6229ccb"},
-        {"name":"yongyue2",     "mac":"38378bef5cc5"},
-        {"name":"tencent_cloud","mac":"525400ef3cd3"},
-        {"name":"hongqiao1",    "mac":"e84e0651cc26"},
-        {"name":"hongqiao2",    "mac":"2c3b70d25044"},
-        {"name":"hongqiao3",    "mac":"acde48001122"},
-        {"name":"startport",    "mac":"d880837820ce"}
+        {"name":"yongyue1",     "mac":"10e7c6229ccb", "count": 0},
+        {"name":"yongyue2",     "mac":"38378bef5cc5", "count": 0},
+        {"name":"tencent_cloud","mac":"525400ef3cd3", "count": 0},
+        {"name":"hongqiao1",    "mac":"e84e0651cc26", "count": 0},
+        {"name":"hongqiao2",    "mac":"2c3b70d25044", "count": 0},
+        {"name":"hongqiao3",    "mac":"acde48001122", "count": 0},
+        {"name":"startport",    "mac":"d880837820ce", "count": 0}
     ]
 }
