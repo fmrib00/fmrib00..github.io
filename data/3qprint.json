@@ -1,6 +1,6 @@
 {
     "permitted hosts": [
-        {"name":"yongyue1",     "mac":"10e7c6229ccb", "count": 0},
+        {"name":"yongyue1",     "mac":"005056c00008", "count": 0},
         {"name":"yongyue2",     "mac":"38378bef5cc5", "count": 0},
         {"name":"tencent_cloud","mac":"525400ef3cd3", "count": 0},
         {"name":"hongqiao1",    "mac":"e84e0651cc26", "count": 0},
